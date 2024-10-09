@@ -2,6 +2,8 @@ package hu.bme.mit.spaceship;
 
 import java.util.Random;
 
+// SZIA
+
 /**
 * Class storing and managing the torpedoes of a ship
 *
